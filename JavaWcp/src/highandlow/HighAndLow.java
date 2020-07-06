@@ -55,5 +55,4 @@ public class HighAndLow {
 		}
 		System.out.println("ゲーム終了");
 	}
-
 }
